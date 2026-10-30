@@ -1,6 +1,6 @@
-Name,Role,Enabled
-SanSanya,Admin,TRUE
-La Distruzione,Lada,TRUE
+UserID,Role,Enabled
+usr_c697c260-2b9b-43b9-9810-2e0a5257592c,Admin,TRUE
+usr_4343548b-f5e6-4d70-ae90-6831c31d6529,Lada,TRUE
 DUSTEN,Staff,TRUE
 ［Dex］Tekila,Staff,TRUE
 IZAO_,Staff,TRUE
